@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Engenheiro de Sistemas no PagBank** · São Paulo, Brasil
+**Engenheiro de Sistemas no UOLHOST** · São Paulo, Brasil
 
 [LinkedIn](https://www.linkedin.com/in/everton-barbosa-da-silva-999627ab/) · [GitHub](https://github.com/everton-barbosa-silva)
 
